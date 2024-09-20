@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a6a9527.css",
+    "main.js": "/static/js/main.db161acb.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/registerBack.jpg": "/static/media/registerBack.e7f9498ebb83e5525dce.jpg",
+    "static/media/booking.png": "/static/media/booking.11d7bdafd4f5b27f9fa1.png",
+    "static/media/logo.png": "/static/media/logo.234a214108509c57b7a8.png",
+    "static/media/logoC.png": "/static/media/logoC.93210856177ddf1e2599.png",
+    "index.html": "/index.html",
+    "main.6a6a9527.css.map": "/static/css/main.6a6a9527.css.map",
+    "main.db161acb.js.map": "/static/js/main.db161acb.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a6a9527.css",
+    "static/js/main.db161acb.js"
+  ]
+}
